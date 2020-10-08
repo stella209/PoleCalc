@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="G4AXGV163058Y87"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2020/05/16 03:10:37.000.438,C:\Stella\Android\Draw\HeaderFooterApplication.dproj=C:\Stella\Android\Draw\Draw.dproj</Transaction>
+    <Transaction>2020/05/20 16:28:47.000.752,C:\Stella\Android\Draw1\HeaderFooterTemplate.pas=C:\Stella\LSTCalc\PoleCalc\PolCalcMain.pas</Transaction>
+    <Transaction>2020/05/20 16:28:47.000.752,C:\Stella\Android\Draw1\HeaderFooterTemplate.fmx=C:\Stella\LSTCalc\PoleCalc\PolCalcMain.fmx</Transaction>
+    <Transaction>2020/05/20 16:29:19.000.105,C:\Stella\Android\Draw1\Draw.dproj=C:\Stella\LSTCalc\PoleCalc\PoleCalc.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

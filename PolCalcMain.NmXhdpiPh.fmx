@@ -1,0 +1,67 @@
+inherited HeaderFooterForm_NmXhdpiPh: THeaderFooterForm_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  Fill.Color = claBlack
+  Fill.Kind = Solid
+  DesignerMasterStyle = 0
+  inherited PaintBox1: TPaintBox
+    Size.Width = 400.000000000000000000
+    Size.Height = 431.000000000000000000
+  end
+  inherited Label4: TLabel
+    Size.Width = 400.000000000000000000
+  end
+  inherited StyleBook1: TStyleBook
+    Styles = <
+      item
+      end>
+  end
+  inherited Rectangle1: TRectangle
+    Size.Width = 400.000000000000000000
+  end
+  inherited Label1: TLabel
+    Size.Width = 115.000000000000000000
+    Size.Height = 22.000000000000000000
+  end
+  inherited lbLongitude: TLabel
+    Size.Height = 25.000000000000000000
+  end
+  inherited lbLatitude: TLabel
+    Size.Height = 25.000000000000000000
+  end
+  inherited Label2: TLabel
+    Size.Width = 31.000000000000000000
+    Size.Height = 22.000000000000000000
+  end
+  inherited lbUT: TLabel
+    Size.Height = 25.000000000000000000
+  end
+  inherited Label6: TLabel
+    Size.Width = 31.000000000000000000
+    Size.Height = 22.000000000000000000
+  end
+  inherited Label7: TLabel
+    Size.Width = 60.000000000000000000
+    Size.Height = 22.000000000000000000
+  end
+  inherited lbJD: TLabel
+    Size.Height = 15.000000000000000000
+  end
+  inherited lbLST: TLabel
+    Size.Height = 25.000000000000000000
+  end
+  inherited lbDateTime: TLabel
+    Size.Height = 25.000000000000000000
+  end
+  inherited Panel1: TPanel
+    Position.Y = 568.000000000000000000
+    Size.Width = 400.000000000000000000
+    inherited Button2: TButton
+      Position.Y = 8.000000000000000000
+      Size.Height = 30.000000000000000000
+    end
+    inherited Button3: TButton
+      Size.Width = 238.000000000000000000
+    end
+  end
+end
