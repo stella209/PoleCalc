@@ -12,3 +12,5 @@ KEPLER + PRISMA: Kepler binoculars with prism.
 Based on the JD2000 ephemeris, I corrected the position of the Polar Star with its own motion. Precession and abberation are not included, but they are so small that they are negligible.
 
 ![image](https://user-images.githubusercontent.com/17915931/113701565-9d3c2900-96d8-11eb-97a3-cede3a8f0514.png)
+
+Download: Android/Debug > PoleCalc.apk
